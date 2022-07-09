@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stellaratelier
 )](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋, Darby Smith
-#### Stellar Portfolio
-![Stellar Portfolio]
+### Hi there 👋, I'm Darby Smith
+#### This is my Stellar Atelier Portfolio
 
-This profile was created as a format to provide an example of some visual aspects and functional ability of my work.
+This profile has been created in this medium to provide a small sample of my graphic work and functional abilities..
 
 Skills: Java, Node.js, Python, CAD Design
 
