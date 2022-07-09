@@ -24,7 +24,7 @@ This profile has been created in this medium to provide a small sample of my gra
 Skills: Java, Node.js, Python, CAD Design
 
 - 🔭 I’m currently working on this page. 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stellaratelier&show_icons=true&theme=radical)
 
 
 
