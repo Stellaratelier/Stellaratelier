@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 )](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, Darby Smith
 #### Stellar Portfolio
-![Stellar Portfolio](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Stellar Portfolio]
 
 This profile was created as a format to provide an example of some visual aspects and functional ability of my work.
 
